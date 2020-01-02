@@ -1,2 +1,4 @@
-# FLASK
-Completed FLASK training with HTML, CSS, Bootstrap4 basics, and SQLite database integration using Python,
+# <font color='blue'>FLASK(Web Framework) using Python</font>
+* **HTML Basics**
+* **CSS Basics**
+* **Bootstrap4 Basics**
