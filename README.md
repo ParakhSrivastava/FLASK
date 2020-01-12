@@ -2,3 +2,7 @@
 * **HTML Basics**
 * **CSS Basics**
 * **Bootstrap4 Basics**
+* **Flask Basics**
+* **Templates**
+* **Forms**
+* **Databases**
